@@ -40,7 +40,7 @@
 
 ###
 
-<img align="right" height=600 src="https://i.pinimg.com/564x/55/19/fa/5519fad35968be45d204a492c75ffe6a.jpg" />
+<img align="right" height=400 src="https://i.pinimg.com/564x/55/19/fa/5519fad35968be45d204a492c75ffe6a.jpg" />
 
 ###
 
